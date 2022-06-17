@@ -1,0 +1,15 @@
+(2,3  ),  Down, 2
+(4,3),  Up , 5
+(7,1), Left 4
+(9,1), Right, 6
+(1,1), Down, 4
+#1UP is valid^
+(8, 3), Down, 4
+(2,3), Left, 4
+(5,4), Right, 2
+#1UP is valid^
+(3,3), Down, 2
+(7,7), Left, 3
+#2UP are valid^
+(9,10), Up, 4
+#1UP is valid^
