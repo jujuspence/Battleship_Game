@@ -4,7 +4,7 @@ require_relative 'controllers/game_controller'
 # =====DON'T modify the following code=======
 # ===========================================
 
-Players = Struct.new(:game_board_1, :game_board_2, :attack_1, :attack_2)
+Players = Struct.new(:game_board_1, :game_board_2, :attack_1, :attack_2, :attack_3)
 
 def parser(args)
     players = Players.new(nil, nil)
